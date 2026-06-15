@@ -1,4 +1,15 @@
-
+# dbt
 target/
-dbt_packages/
 logs/
+*.duckdb
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Databricks
+.dbc
+
+# Environment
+.env
