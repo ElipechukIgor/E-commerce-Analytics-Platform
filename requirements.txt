@@ -1,1 +1,7 @@
-
+pandas
+faker
+boto3
+python-dotenv
+mage-ai
+dbt-core
+dbt-duckdb
